@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.PaxHabit" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/pax_background</item>
+    </style>
+</resources>
